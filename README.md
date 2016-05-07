@@ -1,4 +1,3 @@
-# ProjectSeven
-
+# Project Seven
 
 Build with Angular Material 
