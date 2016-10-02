@@ -1,0 +1,28 @@
+.profile {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  align-items: center;
+}
+
+.one {
+  background-image: url('https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/12190043_886580984730671_3836410635507803728_n.jpg?oh=2af1de3d88fa410796b12422a0377ebf&oe=58620102');
+}
+
+
+md-sidenav, 
+md-sidenav.md-locked-open, 
+md-sidenav.md-closed.md-locked-open-add-active {
+    min-width: 100px !important;
+    width: 85vw !important;
+    max-width: 250px !important;
+    display: inline-block;
+} 
+
+#profile-content{
+    display: inline-block;
+}
